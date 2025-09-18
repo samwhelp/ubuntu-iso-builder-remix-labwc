@@ -202,6 +202,9 @@ default values.
 		<keybind key="A-S-e">
 			<action name="Execute" command="mousepad" />
 		</keybind>
+		<keybind key="A-S-s">
+			<action name="Execute" command="nwg-look" />
+		</keybind>
 		<keybind key="A-S-v">
 			<action name="Execute" command="mate-volume-control" />
 		</keybind>
